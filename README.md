@@ -5,7 +5,7 @@ This README helps me with my Archlinux configuration!
 <br>
 
 ## Softwares, Repositories and Packages
-- [Valet Linux](https://github.com/cpriego/valet-linux-docs)
+- [Valet Linux](https://cpriego.github.io/valet-linux-docs/)
 - [Docker Engine](https://wiki.archlinux.org/title/docker)
 - [Yay](https://aur.archlinux.org/packages/yay)
 - [Beekeeper](https://aur.archlinux.org/packages/beekeeper-studio-bin)
@@ -37,7 +37,7 @@ sudo pacman -S php
 ```
 Some PHP extensions:
 ```sh
-sudo apt install php-mbstring php-cli php-curl php-xml php-zip php-mysql php-pgsql php-sqlite3
+sudo pacman -Ss php-mbstring php-cli php-curl php-xml php-zip php-mysql php-pgsql php-sqlite3
 ```
 
 <br>
