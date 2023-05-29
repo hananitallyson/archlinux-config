@@ -5,7 +5,10 @@ This README helps me with my Archlinux configuration!
 <br>
 
 ## Softwares, Repositories and Packages
-- [Valet Linux](https://cpriego.github.io/valet-linux-docs/)
+- [Docker WSL](https://github.com/codeedu/wsl2-docker-quickstart)
+- [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
+- [Laravel Takeout](https://github.com/tighten/takeout)
+- [Zinit](https://github.com/zdharma-continuum/zinit)
 - [Docker Engine](https://wiki.archlinux.org/title/docker)
 - [Yay](https://aur.archlinux.org/packages/yay)
 - [Beekeeper](https://aur.archlinux.org/packages/beekeeper-studio-bin)
