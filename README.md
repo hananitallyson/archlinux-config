@@ -4,8 +4,9 @@ This README helps me with my Archlinux configuration!
 
 <br>
 
-# Softwares and Repositories
+# Softwares, Repositories and Packages
 - [Valet Linux](https://github.com/cpriego/valet-linux-docs)
+- [Yay](https://aur.archlinux.org/packages/yay)
 
 ## Installation Commands
 
