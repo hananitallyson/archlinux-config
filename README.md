@@ -7,6 +7,7 @@ This README helps me with my Archlinux configuration!
 ## Softwares, Repositories and Packages
 - [Valet Linux](https://github.com/cpriego/valet-linux-docs)
 - [Docker Engine](https://wiki.archlinux.org/title/docker)
+- [Yay](https://aur.archlinux.org/packages/yay)
 
 <br>
 
