@@ -4,6 +4,9 @@ This README helps me with my Archlinux configuration!
 
 <br>
 
+# Softwares and Repositories
+[Valet Linux](https://github.com/cpriego/valet-linux-docs)
+
 ## Installation Commands
 
 **Installing Git**
