@@ -82,12 +82,11 @@ nvm install node
 **Installing Python & PIP**
 
 ```sh
-sudo apt update
-sudo apt install python3
+sudo pacman -S python
 ```
 
 ```sh
-sudo apt install pip
+sudo pacman -S python-pip
 ```
 
 <br>
