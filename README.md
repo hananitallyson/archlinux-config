@@ -36,11 +36,11 @@ sudo pacman -S curl
 **Installing PHP**
 
 ```sh
-sudo pacman -S php
+sudo pacman -S php82
 ```
 Some PHP extensions:
 ```sh
-sudo pacman -Ss php-mbstring php-cli php-curl php-xml php-zip php-mysql php-pgsql php-sqlite3
+sudo pacman -Ss php82-mbstring php82-cli php82-curl php82-xml php82-zip php82-mysql php82-pgsql php82-sqlite3
 ```
 
 <br>
