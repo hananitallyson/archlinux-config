@@ -7,7 +7,6 @@ This README helps me with my Archlinux configuration!
 ## Softwares, Repositories and Packages
 - [ArchLinux AUR](https://aur.archlinux.org/)
 - [ArchLinux Official](https://archlinux.org/packages/)
-- [Docker WSL](https://github.com/codeedu/wsl2-docker-quickstart)
 - [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
 - [Laravel Takeout](https://github.com/tighten/takeout)
 - [Zinit](https://github.com/zdharma-continuum/zinit)
