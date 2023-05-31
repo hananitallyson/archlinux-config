@@ -14,6 +14,7 @@ This README helps me with my Archlinux configuration!
 - [Docker Engine](https://wiki.archlinux.org/title/docker)
 - [Yay](https://aur.archlinux.org/packages/yay)
 - [Beekeeper](https://aur.archlinux.org/packages/beekeeper-studio-bin)
+- [Flatpak](https://flatpak.org/setup/)
 
 <br>
 
