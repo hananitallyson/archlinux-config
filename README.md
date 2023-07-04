@@ -44,7 +44,9 @@ sudo pacman -S php
 <br>
 
 **Installing Composer**
+
 [Composer](https://getcomposer.org/download/)
+
 Most likely, you want to put the composer.phar into a directory on your PATH, so you can simply call composer from any directory (Global install), using for example:
 ```sh
 sudo mv composer.phar /usr/local/bin/composer
